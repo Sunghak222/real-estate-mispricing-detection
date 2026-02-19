@@ -1,5 +1,7 @@
 # Real Estate Mispricing Detection Framework
 
+<img width="923" height="706" alt="Tableau Screenshot" src="https://github.com/user-attachments/assets/dce4192c-b22a-4726-b81a-94765c9fe253" />
+
 ## 1. Problem Statement
 
 While predictive models estimate housing prices with reasonable accuracy, 
